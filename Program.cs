@@ -10,6 +10,11 @@ namespace Lecture_17_Prog_120_F22_Review
     {
         static void Main(string[] args)
         {
+
         }
+
+        // Github usage, branches
+        // Flowcharts
+        // https://www.diagrams.net/
     }
 }
